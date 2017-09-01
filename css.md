@@ -22,7 +22,7 @@ CSS(Cascading Style Sheets，層疊樣式表)，用來描述HTML、XML等文件�
 
 * 瀏覽器解析HTML成DOM(Document Object Model) Tree並同時解析CSS並套用到對應的元素上。
 
-    ![CSS render](/img/rendering.svg)
+    ![CSS render](/img/rendering.png)
 
 * 錯誤的語法或無效的設定會直接忽略
 
