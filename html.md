@@ -90,3 +90,7 @@ HTML(HyperText Markup Language，超文字標記語言)
         <html lang="zh-TW">
 
 * link css file和載入javascript
+
+* 加入viewport(RWD的基本要素)
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
