@@ -4,7 +4,8 @@
 [MDN HTML](https://developer.mozilla.org/zh-TW/docs/Web/HTML)       
 [W3SCHOOLS HTML](https://www.w3schools.com/html/)       
 [DevDocs HTML](http://devdocs.io/html/)     
-[HTML Style](https://www.w3schools.com/html/html5_syntax.asp)
+[HTML Style](https://www.w3schools.com/html/html5_syntax.asp)       
+[HTML validator](https://validator.w3.org/)
 
 ---
 ## **Index**
