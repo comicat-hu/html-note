@@ -4,11 +4,11 @@
 [MDN CSS](https://developer.mozilla.org/zh-TW/docs/Web/CSS)
 
 ---
+
 ## **Index**
 
 1. [CSS基本介紹](#CSS基本介紹)
 2. [選擇器](#選擇器)
-
 
 ---
 
@@ -27,6 +27,7 @@ CSS(Cascading Style Sheets，層疊樣式表)，用來描述HTML、XML等文件�
 * 錯誤的語法或無效的設定會直接忽略
 
 ---
+
 ## 選擇器
 
 * \* { } 選擇全部elements
