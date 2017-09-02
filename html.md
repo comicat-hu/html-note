@@ -8,14 +8,10 @@
 [HTML Style](https://www.w3schools.com/html/html5_syntax.asp)  
 [HTML validator](https://validator.w3.org/)  
 
----
-
 ## **Index**
 
 1. [HTML基本介紹](#HTML基本介紹)
 2. [Metadata in HTML head](#Metadata&nbsp;in&nbsp;HTML&nbsp;head)
-
----
 
 ## HTML基本介紹
 
@@ -65,8 +61,6 @@ HTML(HyperText Markup Language，超文字標記語言)
 * 瀏覽器解析HTML時會將連續的空白省略至一個，省略所有換行，還有一些特定的字元，所以必須使用特殊的編碼來達成。[html 特殊字元編碼對照表](http://wywu.pixnet.net/blog/post/26889798-%5B%E9%9B%BB%E8%85%A6%5D-%E7%89%B9%E6%AE%8A%E5%AD%97%E5%85%83-html-%E7%B7%A8%E7%A2%BC%E5%B0%8D%E7%85%A7%E8%A1%A8)
 
 * [應避免過時的語法](https://developer.mozilla.org/zh-TW/docs/Web_%E9%96%8B%E7%99%BC/Historical_artifacts_to_avoid)
-
----
 
 ## Metadata&nbsp;in&nbsp;HTML&nbsp;head
 

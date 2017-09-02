@@ -3,14 +3,10 @@
 (CSS 3)
 [MDN CSS](https://developer.mozilla.org/zh-TW/docs/Web/CSS)
 
----
-
 ## **Index**
 
 1. [CSS基本介紹](#CSS基本介紹)
 2. [選擇器](#選擇器)
-
----
 
 ## CSS基本介紹
 
@@ -26,8 +22,6 @@ CSS(Cascading Style Sheets，層疊樣式表)，用來描述HTML、XML等文件�
 
 * 錯誤的語法或無效的設定會直接忽略
 
----
-
 ## 選擇器
 
 * \* { } 選擇全部elements
@@ -42,7 +36,7 @@ CSS(Cascading Style Sheets，層疊樣式表)，用來描述HTML、XML等文件�
 * [attr$=val] { } 選擇全部有attr屬性並且值以val結尾的elements
 * [attr*=val] { } 選擇全部有attr屬性並且值包含val的elements
 * [偽類Pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) element:pseudo-class { } 用於選擇特定狀態下的elements
-* [偽元素Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) element::pseudo-element { } 用於選擇elements的特定部分      
+* [偽元素Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) element::pseudo-element { } 用於選擇elements的特定部分  
     [pseudo element pseudo class difference](https://stringpiggy.hpd.io/pseudo-element-pseudo-class-difference/)
 * A,B { } 選擇全部的A和B
 * A B { } 選擇在A下層的所有B(後代)
