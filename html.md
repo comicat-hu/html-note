@@ -10,8 +10,8 @@
 
 ## **Index**
 
-1. [HTML基本介紹](#HTML基本介紹)
-2. [Metadata in HTML head](#Metadata&nbsp;in&nbsp;HTML&nbsp;head)
+1. [HTML基本介紹](#html基本介紹)
+2. [Metadata in HTML head](#metadatainhtmlhead)
 
 ## HTML基本介紹
 
@@ -62,7 +62,7 @@ HTML(HyperText Markup Language，超文字標記語言)
 
 * [應避免過時的語法](https://developer.mozilla.org/zh-TW/docs/Web_%E9%96%8B%E7%99%BC/Historical_artifacts_to_avoid)
 
-## Metadata&nbsp;in&nbsp;HTML&nbsp;head
+## Metadata in HTML head
 
 * 指定文字編碼
 
