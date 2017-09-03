@@ -11,7 +11,7 @@
 ## **Index**
 
 1. [HTML基本介紹](#html基本介紹)
-2. [Metadata in HTML head](#metadatainhtmlhead)
+2. [Metadata in HTML head](#metadata-in-html-head)
 
 ## HTML基本介紹
 
